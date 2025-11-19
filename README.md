@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @kwfx
-- 👀 I’m interested in odoo development, python, javascript
-- 🌱 I’m currently learning ReactJS, NodeJS...
+- 👀 I’m interested in .NET development, Python, Javascript, ReactJS, ...
+
+<!---
+- 🌱 I’m currently learning ReactJS, ...
 - 📫 How to reach me 
 
 <!---
